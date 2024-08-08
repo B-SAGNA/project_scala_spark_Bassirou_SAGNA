@@ -2,9 +2,9 @@
 
 **Enseignant** : Dr. Djibril Mboup.
 
-- **Nom** :
-- **Prenom**:
-- **Classe** : 
+- **Nom** : SAGNA
+- **Prenom**: Bassirou
+- **Classe** : ING-3 Info-Telecom UGB/IPSL
 
 ## Informations Importantes :
 - Le travail que doit founir l'étudiant doit etre personel, tout tentative de plagiat sera sévérement sanctionné.

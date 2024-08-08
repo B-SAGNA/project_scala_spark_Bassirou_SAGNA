@@ -20,7 +20,8 @@ object Main {
     val transformDF = Transform.computeTrafficRevenue(cleanDF)
     transformDF.show()
 
-    Load.saveData(transformDF, "ovewrite", "parquet", outputPath)
+    Load.saveData(transformDF, "overwrite", "parquet", outputPath)
 
   }
 }
+
